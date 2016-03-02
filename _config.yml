@@ -1,0 +1,28 @@
+name: SlainteMediaGroup
+favicon: null
+layout_spectrum: 0.568832233780995
+typography_spectrum: 0.17528866045176983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.008200247772037983
+  lightness: 0.7772957736160606
+  saturation: 0.2893223671708256
+  rhythmicContrast: 0.995800232514739
+purpose: []
